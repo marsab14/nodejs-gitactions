@@ -1,0 +1,14 @@
+{
+  "name": "github-acions",
+  "version": "1.0.0",
+  "description": "github action tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yahiya-mansuri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
